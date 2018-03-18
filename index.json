@@ -1,3 +1,41 @@
 {
-  "test": "aaa"
+  "schedule": [
+    {
+      "date": "2018-06-02",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "開場",
+              "timeStart": "10:00 am",
+              "timeEnd": "10:20 am",
+              "location": "全体",
+              "tracks": [
+                "all"
+              ],
+              "id": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakers": [
+  ],
+  "map": [
+    {
+      "name": "関西大学梅田キャンパス",
+      "lat": 34.706459,
+      "lng": 135.501115,
+      "center": true
+    }
+  ],
+  "about": {
+    "title": "WordCamp Osaka 2018",
+    "description": "WordCamp Osaka 2018 では、WordPressをうまく利用してプロダクトを運用したり、WordPressを利用したビジネスを展開しているのか、また様々な人がWordPressをどのように利用しているかを交流しながら共有する場にすることを目指しています。そして、WordPressに関わるさまざまな人達と ーもちろんこれまで関わったことのなかった人達ともー 関わることで、自分たちのWordPressのプロダクトや使い方により良く活かせるようなきっかけになればと考えています。",
+    "date": "2018/6/2 - 3",
+    "location": "関西大学梅田キャンパス KANDAI Me RISE",
+    "imagePath": "https://2018.osaka.wordcamp.org/files/2018/02/teaser-logo.png"
+  }
 }
