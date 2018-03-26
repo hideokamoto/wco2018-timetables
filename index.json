@@ -28,6 +28,9 @@
               "tracks": [
                 "all"
               ],
+              "speakerNames": [
+                "Takenori Okashita (GOUTEN)"
+              ],
               "id": "2"
             }
           ]
@@ -50,6 +53,13 @@
     }
   ],
   "speakers": [
+    {
+     "name": "Takenori Okashita (GOUTEN)",
+     "profilePic": "https://secure.gravatar.com/avatar/203bf0842ef152b9b40aead6137d547d?s=100&d=mm&r=g",
+     "twitter": "",
+     "about": "Front-end Engineer / Lightning Talk Performer / WordBench Osaka Moderator",
+     "id": "1"
+   }
   ],
   "map": [
     {
